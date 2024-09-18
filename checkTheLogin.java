@@ -1,5 +1,5 @@
 /* 
-Meekail Ahmed
+Paarth Kashyap
 checkTheLogin.java- returns boolean value by searching for login information and checking if present
 in current database. 
 */
